@@ -1,0 +1,110 @@
+
+
+
+body{
+margin:0;
+padding:0;
+list-style:none;
+	}
+
+	
+.conteiner {
+	 padding:0px;
+	}
+		
+.col-sm-4, col1{
+	 background-color:#dcdcdc;
+}
+		
+.header{
+	 margin-bottom:0; 
+	 background-image: url('imagens/CeuEstrelado.jpg');
+    height:130px;
+	text-align: center;
+	color:#f8f8f8;
+	}
+
+.btn, btn-info{
+	color:#ffffff;
+	border-radius: 25px;
+	background-color:#b4b4b4;
+	position: absolute; 
+	right: 0px;
+	
+}
+	
+.rodape{
+	height:120px;
+	background-image: url('imagens/CeuEstrelado.jpg');
+	}h1{
+	color:#000000;
+	text-align:center;
+	}
+
+p{
+	color:#000000;
+	}
+	
+
+.pjustificado{
+	text-align: justify;
+	margin:0;
+	}
+	
+	
+.p_caraccacador{
+	position: absolute; 
+	right:0px; 
+	text-align:right;"
+	}
+	
+label{
+	color:#000000;
+	}
+
+.labelcaraccacdor{
+	position: absolute; 
+	left:0px;
+	padding-right:0px; 
+	text-align:left;
+
+}	
+	
+h1{
+	color:#ffffff;
+	text-align:center;
+	}
+	
+h2{
+	color:#ff0000;
+	text-align:center;
+	}
+		
+h6{
+	color:#000000;
+	text-align:left;
+	}
+	
+			
+.h6lema{
+	color:#0000ff;
+	text-align:center;
+	}
+	
+.quadro-atributos{
+	border-style: solid;
+	
+}
+
+.form-control.tipo1{
+	 border-radius: 15px;
+}
+	
+.form-control.tipo2{
+	position: absolute; 
+	top:50%;
+	margin: auto; 
+	border-radius: 15px;  
+	height:35px; width:35px;
+	}
+	
